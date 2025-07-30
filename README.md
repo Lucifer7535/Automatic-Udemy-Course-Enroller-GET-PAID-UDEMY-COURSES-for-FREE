@@ -55,8 +55,6 @@ In case of any bugs or issues, please open an issue in github. Also, don't forge
 
 &emsp; __(Windows users only) Required Microsoft Visual C++ 14.0+ version:__ [Microsoft Visual C++ 14.0+](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
-![alt text](https://docs.microsoft.com/answers/storage/attachments/34873-10262.png)
-
 &emsp; __You must have pip or poetry installed. Please look up how to install them in your OS.__
 
 Download a release of this project or clone the repository then navigate to the
